@@ -10,10 +10,13 @@ OpenClaw 存在 "零点击" 远程代码执行漏洞。攻击者仅需构造恶�
 
 ## 漏洞视频
 
-[视频链接]()
+[视频链接](https://github.com/honysyang/0click/blob/main/openclaw_0_click.mp4)
 
 ## 漏洞详细文档
-
+| 文档 | 路径 |
+|------|------|
+| 中文 | [中文文档](https://github.com/honysyang/0click/blob/main/openclaw_zh.docx)|
+| 英文 | [中文文档](https://github.com/honysyang/0click/blob/main/openclaw_eh.docx)|
 
 ## 漏洞靶场设置
 
